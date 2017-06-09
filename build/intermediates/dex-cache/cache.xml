@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fcf32027f88ac0be1b54b16167a30bde06ab6cd1">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/classes-2cc0f6e52314937ddac0ec04d2bba57964dd16db.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/classes-53ebd5ac6005b5a1a553b4c81ccb682ee5bcd7e4.jar" />
+    </item>
+    <item
+        jar="/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/guava-19.0-d06d24f08fff82ccd246e7e878102fdbcaf4f117.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-d6efdda7dc414382f4be42775ecbd76dcd152d65.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50fd8c7c5556b3516f569f71ed189d61441d59cf">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-efb582f613c2df46cbebdc08099e06f7325acbe1.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-3e710f50b825251949485dad939b8695c8f11935.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/classes-6496c693e5f62f1d534cf8670a5b2f64fdba2a60.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/classes-a6d187e24542063c67355159ac69ea8f9b675f83.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/alex/Documents/Android/Projects/NFCApp/app/build/intermediates/pre-dexed/debug/classes-6edb0880d22f42e1755ef5d247773ede14209891.jar" />
+    </item>
+
+</items>
